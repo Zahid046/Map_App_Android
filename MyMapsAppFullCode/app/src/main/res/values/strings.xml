@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Maps App Full Code</string>
+
+    <string name="read_map">Read Map</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
